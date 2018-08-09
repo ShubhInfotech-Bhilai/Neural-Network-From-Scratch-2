@@ -18,4 +18,3 @@ After downloading this repo you have to unpack all data files in Neural_net/mnis
 1. matplotlib
 2. numpy
 3. tqdm
-4. urlib
