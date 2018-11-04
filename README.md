@@ -12,7 +12,7 @@ The main file in this repo is Neural_net.ipynb
 <img src="Neural_net/neural_net.jpg" alt="drawing" width="500px"/>
 
 ## How to run:
-After downloading this repo you have to unpack all data files in Neural_net/mnist_data . You can do it using 7zip on windows, or any other compressor.
+Just run Jupyter Notebook
 
 ## Required Python Packages
 1. matplotlib
