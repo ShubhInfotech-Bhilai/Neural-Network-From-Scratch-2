@@ -1,20 +1,39 @@
 # Neural-Network-From-Scratch
-Simple neural network created with python
 
 
-In this repository you can find Neural Network written in numpy from scratch, with some theory explanation and methamatical background
-connected to this subject and some intuition related to. It's one of the most basic models in machine learning.
+In this repository you can find Neural Network written in numpy from scratch, with some theory explanation, methamatical background
+and intuitions related to this subject.
 
-Repo created in colaboration with [@FeederDiver](https://github.com/FeederDiver)
 
-The main file in this repo is Neural_net.ipynb
-
-<img src="Neural_net/neural_net.jpg" alt="drawing" width="500px"/>
+<img src="Neural_net/neural_net.jpg" alt="drawing" width="400px"/>
 
 ## How to run:
 Just run Jupyter Notebook
 
-## Required Python Packages
-1. matplotlib
-2. numpy
-3. tqdm
+
+
+
+## Getting Started   
+
+To run it You need jupyter notebook installed or You can run it using [google colab](https://colab.research.google.com)
+The main file is The main file is [Neural_net.ipynb](Neural_net.ipynb) 
+
+### Prerequisites
+```
+-numpy
+-tqdm
+-matplotlib
+```
+
+
+## Authors
+
+* [tugot17](https://github.com/tugot17)
+* [FeederDiver](https://github.com/FeederDiver) 
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
+
+
